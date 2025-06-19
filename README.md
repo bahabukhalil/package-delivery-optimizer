@@ -1,6 +1,6 @@
 # Package Delivery Optimizer
 
-This project implements **optimization strategies for local package delivery operations** using **Simulated Annealing** and **Genetic Algorithm**. It was developed as part of **ENCS3340 Project #1 (Second Semester 2024/25)** at Birzeit University.
+This project implements **optimization strategies for local package delivery operations** using **Simulated Annealing** and **Genetic Algorithm**. 
 
 The system assigns packages to delivery vans and determines optimal routes to minimize total distance while respecting van capacities and package priorities.
 
